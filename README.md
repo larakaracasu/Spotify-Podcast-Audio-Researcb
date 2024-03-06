@@ -686,7 +686,7 @@ powerful tool for up-and-coming creators to optimize their audio for
 success.
 
 ![A stacked barplot displaying star ratings by
-genre](plots/star_ratings.png){#fig:galaxy width="7.5cm"}
+genre](plots/star_ratings.png)
 
 ## Future work
 
@@ -733,31 +733,6 @@ podcast performance. Future studies analyzing podcast performance, even
 with respect to audio features, could separate show genres from one
 another in order to further validate our results. Ultimately, many new
 avenues exist for research in the podcast industry.
-
-## Responsibilities
-
-Both partners contributed an equal amount of work, and both partners
-worked on every portion of the project. For the paper, project proposal,
-and presentation slides, we each revised every paragraph individually
-multiple times and therefore it would be too difficult for us to
-separate them. We will list each partner's major responsibilities below.
-
-1.  **Quinn:** Getting publication dates from RSS feeds and refining CSV
-    (refine_csv.ipynb), iterating Selenium web scraper through folder
-    tree structure and downloading files (opensmile_folder_finder.py),
-    additional t-testing with 90-10 percentile populations and python
-    verification of results (statistical_testing.Rmd), presentation
-    (slides and in person), writing paper.
-
-2.  **Lara:** Programming initial Selenium web scraper login and
-    navigation mechanisms (opensmile_folder_finder.py), retrieving and
-    processing openSMILE audio features from H5 files using Python
-    (extract_audio_data.py, extract_opensmile_features.py), writing
-    documentation for HDF format and software, performing statistical
-    testing in R and creating visualizations (statistical_testing.Rmd),
-    making slides for presentation, writing paper.
-
- 
 
 ## References
 
