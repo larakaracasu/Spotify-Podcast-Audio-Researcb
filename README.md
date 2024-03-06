@@ -19,13 +19,13 @@
   ratings and thus achieve more success.
 
 ## Authors
-  **Quinn Booth**\
-  Columbia University\
-  `qab2004@columbia.edu`
-  
   **Lara Karacasu**\
   Columbia University\
   `lk2859@columbia.edu`
+  
+  **Quinn Booth**\
+  Columbia University\
+  `qab2004@columbia.edu`
  
 ## Introduction
 
